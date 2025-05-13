@@ -3,5 +3,5 @@ package printx
 import "fmt"
 
 func Printx() {
-	fmt.Println("Hello, World! new version v0.0.2")
+	fmt.Println("Hello, World! new version v0.0.3")
 }
